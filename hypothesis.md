@@ -418,7 +418,7 @@ Nothing beyond this scope is required to test the first hypothesis.
 
 The immediate objective is therefore:
 
-«Build the smallest system capable of proving that an application can consume a capability through UAL while the UAL infrastructure assumes responsibility for the communication and integration concerns that would otherwise be implemented inside the application backend.»
+Build the smallest system capable of proving that an application can consume a capability through UAL while the UAL infrastructure assumes responsibility for the communication and integration concerns that would otherwise be implemented inside the application backend.
 
 The result may validate the hypothesis, weaken it, or disprove it.
 
